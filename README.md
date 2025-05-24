@@ -239,7 +239,7 @@ body {
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/3540e35c-e4aa-41a4-b902-2c1135e21da8)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
